@@ -56,7 +56,7 @@ class Homepage extends StatelessWidget {
                               width: 400,
                             ),
                           ),
-                        ),
+                        ), 
                       );
                     },
                     child: Container(
